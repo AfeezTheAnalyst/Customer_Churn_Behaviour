@@ -183,4 +183,5 @@ Retrain the Model: After removing ineffective features, we can retrain the decis
   * Engage in promotional activities
   * Reduction in the monthly bill charge of customers
 
-![Check me out here on LinkedIn](https://www.linkedin.com/in/afeez-akinleye/)
+[Check me out here on LinkedIn](https://www.linkedin.com/in/afeez-akinleye/)  
+[Connect to the Python Code here](Customer_Churn_Prediction.ipynb)
